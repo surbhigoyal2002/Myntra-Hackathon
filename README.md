@@ -1,8 +1,16 @@
-# React + Vite
+# Myntra- WeForShe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Our project focuses on trend-Centric Recommendation and User engagement.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Ideation
+
+[Round 1](https://drive.google.com/file/d/1rIqKfsUj6rT75ZFtIAn_RHoFFfkvcHMR/view?usp=sharing)
+
+
+## Team members
+
+- [Surbhi Goyal](https://github.com/surbhigoyal2002)
+- [Eiva Prabhakar Yadav](https://github.com/eiva078)
+- [Prerna Madhyan](https://github.com/prernamadhyan16)
